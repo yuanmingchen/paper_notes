@@ -4,7 +4,7 @@
 
 * [介绍](README.md)
 * [1、Aspect-based summarization of pros and cons in unstructured product reviews论文笔记](chapter1.md)
-* 2、
+* [2、Towards Opinion Summarization of Customer Reviews](2.md)
 
 ## 二、情感分类
 
