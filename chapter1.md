@@ -1,4 +1,6 @@
-##一、题目：在非结构化的产品评论中的基于方面的优点和缺点的总结
+#1、Aspect-based summarization of pros and cons in unstructured product reviews论文笔记
+##一、题目
+####在非结构化的产品评论中的基于方面的优点和缺点的总结
 ##二、概括
 ###1、研究内容
 作者开发了三个系统，这些系统可以自动化生成产品评论中的优缺点总结。
